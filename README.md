@@ -29,3 +29,6 @@ This project is part of my Data Science & AI curriculum and focuses on building 
 
 ## 📌 Notes
 This project demonstrates foundational programming competence and serves as the base for advanced analytics, SQL, and machine learning work in later modules.
+
+## 👤 Contributor
+**Syed Irshad**
